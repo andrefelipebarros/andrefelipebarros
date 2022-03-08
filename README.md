@@ -1,4 +1,4 @@
-### Hi there, I´m André Felipe👋
+### 💜 Hi there, I´m André Felipe 💜
 
 <div align="center">
   <a href="https://github.com/ALIPE_Official">
