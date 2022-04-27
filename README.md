@@ -38,7 +38,6 @@
   ##
 
   
-- 🔭 I am currently working on my college development
-- 🌱 I'm currently learning HTML and CSS in Uiversity Veiga de Almeida
-- 📫 Professional Email: afbarrosan@gmail.com
-- ⚡ Curiosity: I'm at Veiga de Almeida University
+- 🔭 I am currently working on my development at the Faculty
+- 🌱 I am currently learning JavaScript and Power BI
+- 📫 Professional email: afbarrosan@gmail.com
