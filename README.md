@@ -1,9 +1,9 @@
 ### 💜 Hi there, I´m André Felipe 💜
 
 <div align="center">
-  <a href="https://github.com/ALIPE_Official">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALIPE-Official&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIPE-Official&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/andrefelipebarros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefelipebarros&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefelipebarros&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img align="right" alt="André-pic" height="150" style="border-radius:50px;"  src="https://i.picasion.com/pic92/f0489039ac984fd63855362ac6ab134f.gif?width=676&height=676">
 </div>
  
