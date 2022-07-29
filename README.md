@@ -16,7 +16,6 @@
     <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="André-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
      <img align="center" alt="André-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-     <img align="right" alt="André-pic" height="150" style="border-radius:50px;"  src="https://i.picasion.com/pic92/f0489039ac984fd63855362ac6ab134f.gif?width=676&height=676">
     
   </div>
   
