@@ -38,6 +38,6 @@
   ##
 
   
-- 🔭 I am currently working on my development at the Faculty
+- 🔭 I am currently working on my development at the University
 - 🌱 I am currently learning JavaScript and Power BI
 - 📫 Professional email: afbarrosan@gmail.com
