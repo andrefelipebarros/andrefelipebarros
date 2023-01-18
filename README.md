@@ -33,3 +33,4 @@
 - 🔭 I am currently working on my development at the University
 - 🌱 I am currently learning C# and C++
 - 📫 Professional email: afbarrosan@gmail.com
+- 👨🏻‍💻 Studying Unity Engine at moment
