@@ -1,6 +1,15 @@
-### 💜 Hi there, I´m André Felipe 💜
+<div align = center>
 
-<div style="display: inline_block"><br>
+### 💜 Hi there 💜
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=886ce4&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+André+Felipe;I'm+18+years+old;I+from+Brasil,+RJ;I+study+computer+science+at+University+Veiga+de+Almeida+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrefelipebarros&show_icons=true&count_private=true&hide_border=true&title_color=81749c&icon_color=81749c&text_color=c9d1d9&bg_color=0d1117" alt="André Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefelipebarros&layout=compact&hide_border=true&title_color=81749c&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+  <div style="display: inline_block"><br>
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -9,23 +18,22 @@
   <img align="center" alt="André-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">    
   <img align="center" alt="André-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="André-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" >        
-</div>
+  </div>
   
   
   ##
   
   
-
-  <div>
+ <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alipeeeeeeeee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:afbarrosan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/alipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   </div>
+
   
-   
+</div>
   
   ##
 
