@@ -44,4 +44,4 @@
 - 🌱 I am currently learning C# and C++
 - **📫 Professional email:** `afbarrosan@gmail.com`
 - **Discord:** `ALIPE#6110`
-- 👨🏻‍💻 Studying Unity Engine at moment
+- 👨🏻‍💻 Studying PostgreSQL at moment
