@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=886ce4&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+André+Felipe;I'm+19+years+old;I+from+Brazil,+RJ;I+study+computer+science+at+University+Veiga+;Welcome!+:%29)](https://git.io/typing-svg)
   
   <div align="center">  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=andrefelipebarros&show_icons=true&count_private=true&hide_border=true&title_color=81749c&icon_color=81749c&text_color=c9d1d9&bg_color=0d1117" alt="André Felipe github stats" /> 
+  
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefelipebarros&layout=compact&hide_border=true&title_color=81749c&text_color=ffffff&bg_color=0d1117" />
 </div>
 
