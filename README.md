@@ -45,5 +45,5 @@
 - 🔭 I am currently working on my development at the University
 - 🌱 I am currently learning C# and C++
 - **📫 Professional email:** `afbarrosan@gmail.com`
-- **Discord:** `ALIPE#6110`
+- **Discord:** `@alipe`
 - 👨🏻‍💻 Studying Python 3 at moment
