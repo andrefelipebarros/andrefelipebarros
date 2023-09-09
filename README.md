@@ -46,4 +46,4 @@
 - 🌱 I am currently learning C# and C++
 - **📫 Professional email:** `afbarrosan@gmail.com`
 - **Discord:** `@alipe`
-- 👨🏻‍💻 Studying Python 3 at moment
+- 👨🏻‍💻 Studying "Bootcamp Java with Cloud AWS" at moment.
