@@ -43,7 +43,7 @@
   ##
 
 - 🔭 I am currently working on my development at the University
-- 🌱 I am currently learning C# and C++
+- 🌱 I am currently learning JavaAPI
 - **📫 Professional email:** `afbarrosan@gmail.com`
 - **Discord:** `@alipe`
 - 👨🏻‍💻 Studying "Bootcamp Java with Cloud AWS" at moment.
