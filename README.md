@@ -42,8 +42,17 @@
   
   ##
 
-- 🔭 I am currently working on my development at the University
-- 🌱 I am currently learning JavaAPI
-- **📫 Professional email:** `afbarrosan@gmail.com`
-- **Discord:** `@alipe`
-- 👨🏻‍💻 Studying "Bootcamp Java with Cloud AWS" at moment.
+<details align="left">
+  <summary>#</summary> 
+ 
+  - 🔭 I am currently working on my development at the University
+  - 🌱 I am currently learning JavaAPI
+  - **📫 Professional email:** `afbarrosan@gmail.com`
+  - **Discord:** `@alipe`
+  - 👨🏻‍💻 Studying "Bootcamp Java with Cloud AWS" at moment.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
+
+</details>
+
+
