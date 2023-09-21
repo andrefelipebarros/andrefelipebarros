@@ -43,7 +43,7 @@
   ##
 
 <details align="left">
-  <summary>#</summary> 
+  <summary></summary> 
  
   - 🔭 I am currently working on my development at the University
   - 🌱 I am currently learning JavaAPI
