@@ -53,7 +53,7 @@
   - 🌱 I am currently learning JavaAPI
   - **📫 Professional email:** `afbarrosan@gmail.com`
   - **Discord:** `@alipe`
-  - 👨🏻‍💻 Studying "Bootcamp Java with Cloud AWS" at moment.
+  - 👨🏻‍💻 Studying Spring Boot at moment.
  
   <div align="right">Made with 💜 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
 
