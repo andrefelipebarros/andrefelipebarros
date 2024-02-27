@@ -53,6 +53,7 @@
   - **📫 Professional email:** `afbarrosan@gmail.com`
   - **Discord:** `@alipe`
   - 👨🏻‍💻 Studying Angular at moment.
+  - ✨ Currently working at a bank.
  
   <div align="right">Made with 💜 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
 
