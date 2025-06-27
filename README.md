@@ -59,7 +59,7 @@
   - 🌱 I am currently learning JavaAPI
   - **📫 Professional email:** `afbarrosan@gmail.com`
   - **Discord:** `@alipe`
-  - 👨🏻‍💻 Studying Back-end at moment.
+  - 👨🏻‍💻 Currently studying Back-end with Java.
   - ✨ Currently working at a bank.
  
   <div align="right">Made with 💜 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
