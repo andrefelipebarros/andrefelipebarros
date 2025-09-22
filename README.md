@@ -24,16 +24,20 @@
   <img align="center" alt="André-Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="André-Maven" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img align="center" alt="André-Spring" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="André-Hibernate" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" />
+  <img align="center" alt="André-Kafka" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
   <img align="center" alt="André-PostgreeSQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="André-SQLite" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="André-MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="André-Csharp" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="André-.NetCore" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="André-Azure" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="André-Kubernetes" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img align="center" alt="André-Podman" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" />
   <img align="center" alt="André-Docker" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="André-Jenkins" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="André-Unity" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="André-Git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
 </div>
   
