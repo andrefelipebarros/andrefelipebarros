@@ -59,14 +59,14 @@
 
 <details align="left">
   <summary></summary> 
- 
-  - 🔭 I am currently working on my development at the University
-  - 🌱 I am currently learning JavaAPI
-  - **📫 Professional email:** `afbarrosan@gmail.com`
-  - **Discord:** `@alipe`
-  - 👨🏻‍💻 Currently studying Back-end with Java.
-  - ✨ Currently working at a bank.
- 
+  
+  - 🎓 Bachelor’s Degree in Computer Science  
+  - 👨🏻‍💻 Back-end Developer in training, focused on Java  
+  - 🏦 Currently working at a bank  
+  - 🌱 Studying Java API and software development best practices  
+  - **📫 Professional email:** `afbarrosan@gmail.com`  
+  - **💬 Discord:** `@alipe`
+
   <div align="right">Made with 💜 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
 
 </details>
