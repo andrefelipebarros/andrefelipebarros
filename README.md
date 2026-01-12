@@ -3,11 +3,6 @@
 ### 🤎 Hi there 🤎
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A5235&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+André+Felipe;I'm+21+years+old;I'm+from+Brazil,+RJ;I+study+computer+science+at+University+Veiga+;Welcome!+:%29)](https://git.io/typing-svg)
-  
-  <div align="center">  
-  
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefelipebarros&layout=compact&hide_border=true&title_color=886ce4&text_color=ffffff&bg_color=010409" />
-</div>
 
 ### My Skills
 
