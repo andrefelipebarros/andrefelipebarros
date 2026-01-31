@@ -49,11 +49,11 @@
 <details align="left">
   <summary></summary> 
   
-  - 🎓 Bachelor’s Degree in Computer Science  
-  - 👨🏻‍💻 Back-end Developer in training, focused on Java  
-  - 🏦 Currently working at a bank  
-  - 🌱 Studying Java API and software development best practices  
-  - **📫 Professional email:** `afbarrosan@gmail.com`  
+  - 🎓 Bachelor’s Degree in Computer Science | 📚 Post-grad in Software Engineering
+  - ☁️ Back-end Developer focused on **Cloud Native** & **DevOps**
+  - 🚀 **Status:** Open to Junior & Trainee opportunities
+  - 🌱 Current Stack: **Java (Quarkus)**, **Go**, **Terraform** & **Grafana**
+  - **📫 Email:** `afbarrosan@gmail.com`
   - **💬 Discord:** `@alipe`
 
   <div align="right">Made with 🤎 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
