@@ -2,7 +2,7 @@
 
 ### 🤎 Hi there 🤎
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A5235&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+André+Felipe;I'm+21+years+old;I'm+from+Brazil,+RJ;I+study+computer+science+at+University+Veiga+;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A5235&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+André+Felipe;I'm+22+years+old;I'm+from+Brazil,+RJ;I+study+computer+science+at+University+Veiga+;Welcome!+:%29)](https://git.io/typing-svg)
 
 ### My Skills
 
