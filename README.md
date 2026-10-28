@@ -15,8 +15,6 @@
   <a href="mailto:afbarrosan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-7A5235?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/andrefelipebarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7A5235?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-  
-<br>
 
 <p align="left">
 
