@@ -21,7 +21,6 @@
 - 🎓 Bachelor's Degree in Computer Science | 📚 Postgraduate studies in Software Engineering  
 - 💻 Full Stack Developer with strong focus on **Backend**, **APIs**, **Cloud** and **DevOps**  
 - ⚙️ Building **scalable services**, **web applications**, **automation workflows** and **observable systems**  
-- 🌱 Current Stack: **Java (Quarkus / Spring)**, **Go**, **JavaScript**, **Python**, **Terraform**, **Grafana** and **Docker**  
 - **📫 Email:** `afbarrosan@gmail.com`  
 - **💼 LinkedIn:** `linkedin.com/in/andrefelipebarros`
 
