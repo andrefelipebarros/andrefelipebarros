@@ -25,5 +25,3 @@
 - **💼 LinkedIn:** `linkedin.com/in/andrefelipebarros`
 
 </p>
-
-<div align="right">Made with 🤎 by <a href="https://github.com/andrefelipebarros">ALIPE</a>.</div>
