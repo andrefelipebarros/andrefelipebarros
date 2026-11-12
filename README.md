@@ -18,8 +18,8 @@
 
 <p align="left">
 
-- 🎓 Bachelor's Degree in Computer Science | 📚 Postgraduate studies in Software Engineering  
 - 💻 Full Stack Developer
+- 🎓 Bachelor's Degree in Computer Science | 📚 Postgraduate studies in Software Engineering  
 - ⚙️ Building **scalable services**, **web applications**, **automation workflows** and **observable systems**  
 - **📫 Email:** `andre.felipebarros@outlook.com`  
 - **💼 LinkedIn:** `linkedin.com/in/andrefelipebarros`
