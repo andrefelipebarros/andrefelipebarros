@@ -19,7 +19,7 @@
 <p align="left">
 
 - 🎓 Bachelor's Degree in Computer Science | 📚 Postgraduate studies in Software Engineering  
-- 💻 Full Stack Developer with strong focus on **Backend**, **APIs**, **Cloud** and **DevOps**  
+- 💻 Full Stack Developer
 - ⚙️ Building **scalable services**, **web applications**, **automation workflows** and **observable systems**  
 - **📫 Email:** `andre.felipebarros@outlook.com`  
 - **💼 LinkedIn:** `linkedin.com/in/andrefelipebarros`
